@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(502,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  main.cpp
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(133,8): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(387,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(441,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(441,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(443,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(443,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(453,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(453,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(454,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(454,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(458,59): warning C4244: 'argument': conversion from 'float' to 'val', possible loss of data
+          with
+          [
+              val=int
+          ]
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(262,12): warning C4101: 'pos': unreferenced local variable
+C:\Users\nitay\source\repos\Kewl Esp hack try 02\Kewl Esp hack try 02\src\main.cpp(263,12): warning C4101: 'head': unreferenced local variable
+  Generating code
+  19 of 1614 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Kewl Esp hack try 02.vcxproj -> C:\Users\nitay\source\repos\Kewl Esp hack try 02\$build\Kewl Esp hack try 02.exe
